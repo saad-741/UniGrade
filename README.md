@@ -1,17 +1,46 @@
-# unigrade
+# 🎓 UniGrade
 
-A new Flutter project.
+**UniGrade** is a sleek and lightweight Flutter application designed to help university students calculate and track their academic performance with ease.
 
-## Getting Started
+It provides separate **GPA** and **CGPA** calculators wrapped in a clean, modern **Material 3** interface.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+* 📊 **GPA Calculator** — Calculate your semester GPA based on subjects, marks, and credit hours.
+* 📈 **CGPA Calculator** — Calculate cumulative CGPA across multiple semesters. 
+* ⚡ **Lightweight & Fast** — Simple architecture with minimal dependencies.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+  
+## 🚀 Getting Started
+ 
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/your-username/unigrade.git
+```
+
+**2. Navigate to the project**
+
+```bash
+cd unigrade
+```
+
+**3. Install dependencies**
+
+```bash
+flutter pub get
+```
+
+**4. Run the application**
+
+```bash
+flutter run
+```
+ 
+## 📄 License
+
+This project is available under the **MIT License**.
+ 
+  
